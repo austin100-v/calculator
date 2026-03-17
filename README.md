@@ -58,7 +58,7 @@ Implemented using **HTML**, **CSS**, and **JavaScript**, and avoids using `eval(
 
 ## Usage
 
-1. Open `index.html` in your browser.
+1. Open `calculator.html` in your browser.
 2. Use the on-screen buttons or keyboard to input numbers and operators.
 3. Press `=` or `Enter` to calculate the result.
 4. Press `DEL` or `Backspace` to delete the last character.
