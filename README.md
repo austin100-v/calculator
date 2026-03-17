@@ -91,7 +91,7 @@ Output: Error: Division by zero
 
 | File | Description |
 |------|-------------|
-| `index.html` | Calculator layout |
+| `calculator.html` | Calculator layout |
 | `calculator.css` | Styling |
 | `calculator.js` | Logic and keyboard support |
 
